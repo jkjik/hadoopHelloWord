@@ -1,6 +1,6 @@
 # hadoopHelloWord
 Hadoop计数文本单词数
-最小安装版初始设置
+===最小安装版初始设置
 
 ===1.配置linux网络
 设置vm nat网络模式
